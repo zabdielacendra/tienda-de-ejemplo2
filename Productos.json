@@ -1,0 +1,108 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "iPhone 14 Pro",
+      "descripcion": "El último smartphone de Apple con Dynamic Island y cámara de 48MP",
+      "precio": 1299.99,
+      "precio_original": 1399.99,
+      "descuento": 7,
+      "categoria": "smartphones",
+      "imagen": "https://images.unsplash.com/photo-1663499482523-1c0c1bae4ce1?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "rating": 4.8,
+      "stock": 15,
+      "destacado": true
+    },
+    {
+      "id": 2,
+      "nombre": "MacBook Air M2",
+      "descripcion": "Laptop ultradelgada con chip M2 y pantalla Liquid Retina",
+      "precio": 1199.99,
+      "precio_original": 1299.99,
+      "descuento": 8,
+      "categoria": "electronica",
+      "imagen": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "rating": 4.9,
+      "stock": 8,
+      "destacado": true
+    },
+    {
+      "id": 3,
+      "nombre": "Samsung Galaxy Watch 6",
+      "descripcion": "Smartwatch avanzado con monitor de sueño y ECG",
+      "precio": 299.99,
+      "precio_original": 349.99,
+      "descuento": 14,
+      "categoria": "accesorios",
+      "imagen": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "rating": 4.6,
+      "stock": 25,
+      "destacado": true
+    },
+    {
+      "id": 4,
+      "nombre": "Sony WH-1000XM5",
+      "descripcion": "Audífonos noise cancelling líderes en el mercado",
+      "precio": 349.99,
+      "precio_original": 399.99,
+      "descuento": 13,
+      "categoria": "accesorios",
+      "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "rating": 4.7,
+      "stock": 20,
+      "destacado": false
+    },
+    {
+      "id": 5,
+      "nombre": "Google Nest Hub",
+      "descripcion": "Pantalla inteligente con Google Assistant integrado",
+      "precio": 89.99,
+      "precio_original": 99.99,
+      "descuento": 10,
+      "categoria": "hogar",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "rating": 4.4,
+      "stock": 30,
+      "destacado": true
+    },
+    {
+      "id": 6,
+      "nombre": "iPad Pro 12.9\"",
+      "descripcion": "Tablet profesional con pantalla Liquid Retina XDR",
+      "precio": 1099.99,
+      "precio_original": 1199.99,
+      "descuento": 8,
+      "categoria": "electronica",
+      "imagen": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "rating": 4.8,
+      "stock": 12,
+      "destacado": true
+    },
+    {
+      "id": 7,
+      "nombre": "PlayStation 5",
+      "descripcion": "Consola de última generación con SSD ultrarrápido",
+      "precio": 499.99,
+      "precio_original": 549.99,
+      "descuento": 9,
+      "categoria": "electronica",
+      "imagen": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "rating": 4.9,
+      "stock": 5,
+      "destacado": false
+    },
+    {
+      "id": 8,
+      "nombre": "Kindle Paperwhite",
+      "descripcion": "E-reader con pantalla de 6.8\" y resistencia al agua",
+      "precio": 139.99,
+      "precio_original": 149.99,
+      "descuento": 7,
+      "categoria": "electronica",
+      "imagen": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "rating": 4.5,
+      "stock": 40,
+      "destacado": false
+    }
+  ]
+}
